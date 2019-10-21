@@ -20,6 +20,8 @@ This project gives a tutorial for a Coding Dojo.
 
 # The Challenge: A String Calculator
 
+[a relative link](other_file.md)
+
 ## Challenge Part 1:
 Create a simple String calculator with a method
 ~~~~
